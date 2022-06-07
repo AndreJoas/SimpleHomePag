@@ -1,0 +1,181 @@
+.retangulo{
+    background: linear-gradient(180deg, #FEF6B2 0%, #FFFCE3 100%);
+    width: 95.6rem;
+    height: 45.8rem;
+    margin-top: -1.3rem;
+    margin-left: -1rem;
+}
+.titulo{
+    font-size: 2rem;
+    margin-top: 1.3rem;
+}
+.logo{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+.menu{
+    position: absolute;
+    list-style: none;
+    float: left;
+    width: 800px;
+    height: 50px;
+    align-items: flex;
+    left: 68.8rem;
+    top: 1.7rem;
+    color: rgba(182, 26, 26, 0);
+    font-size: 17px;
+}
+.menu li{
+    position: relative;
+    float: left;
+    color: #0000;
+}
+.menu li a{
+    color:rgb(24, 22, 22);
+    text-decoration: none;
+    padding: 15px 20px;
+    display: block;
+    font-family: sans-serif;
+}
+
+.menu li a:hover{
+    text-shadow: 0px 0px 32px #231e1c;
+}
+.sign{
+    color: #fff;
+    background: black;
+    border-radius: 4rem;
+    width: 9rem;
+    height: 2.7rem;
+    cursor: pointer;
+
+}
+
+.ft{
+    width: 36rem;
+    height: 38rem;
+    background-image: url(Left\ Side.svg);
+    margin-left: 4rem;
+    margin-top: 2.7rem;
+}
+.inputes{
+    display: grid;
+    margin-left: 45rem;
+    margin-top: -40rem;
+}
+.t1{
+    font-size: 3.4rem;
+    margin-top: 1.5rem;
+}
+.entrada1{
+    width: 28rem;
+    margin-top: -2.4rem;
+    
+}
+.fist{
+    padding: 0;
+    font-size: 1.5rem;
+}
+.inp1{
+    width: 24.5rem;
+    margin-top: -0.2rem;
+    cursor: pointer;
+    outline: none;
+}
+
+.entrada2{
+    width: 28rem;
+    margin-top: 0.7rem;
+    
+}
+.last{
+    padding: 0;
+    font-size: 1.5rem;
+}
+.inp2{
+    width: 24.5rem;
+    margin-top: 0rem;
+    cursor: pointer;
+    outline: none;
+}
+.entrada3{
+    width: 28rem;
+    margin-top: 0.5rem;
+}
+.email{
+    padding: 0;
+    font-size: 1.5rem;
+}
+.inp3{
+    width: 24.5rem;
+    margin-top: -0.2rem;
+    transition: 0.5s;
+    cursor: pointer;
+    outline: none;
+}
+.inp3:hover{
+    box-shadow: #231e1c;
+}
+.entrada4{
+    width: 28rem;
+    margin-top: 0.2rem;
+}
+.mensag{
+    padding: 0;
+    font-size: 1.5rem;
+}
+.inp4{
+    width: 24.5rem;
+    height: 6rem;
+    margin-top: -0.2rem;
+    cursor: pointer;
+    ;outline: none;
+}
+.termos{
+    display: flex;
+}
+.revew{
+    font-size: 1.04rem;
+    
+}
+.here{
+    font-size: 0.9rem;
+    margin-left: 0.3rem;
+    margin-top: 1rem;
+    color: red;
+    cursor: pointer;
+    
+}
+
+
+.scales1{
+    margin-left: -0.8rem;
+    font-size: 1rem;
+    margin-top: 0rem;
+    
+}
+.check{
+    margin-left: 0.1rem;
+}
+.baixo{
+    display: flex;
+    gap: 1rem;
+    margin-top: -0.6rem;
+}
+.sentt{
+    width: 8rem;
+    border-radius: 2rem;
+    margin-top: 3rem;
+    height: 2.4rem;
+    margin-left: -10.7rem;
+    background-color: transparent;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition:0.7s ;
+}
+.sentt:hover{
+    border: none;
+    background: black;
+    color: #fff;
+}
